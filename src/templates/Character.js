@@ -1,5 +1,5 @@
 import getHash from '../utils/getHash.js';
-import getDate from '../utils/getData.js';
+import getData from '../utils/getData.js';
 
 const Character = async () => {
     const id = getHash();
